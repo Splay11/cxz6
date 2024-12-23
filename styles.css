@@ -1,0 +1,20 @@
+/* 样式部分 */
+
+/* 方块元素的样式 */
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    transition: all 1s ease;
+  }
+  
+  /* 按钮的样式 */
+  #startButton {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
